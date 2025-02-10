@@ -39,6 +39,7 @@ int	main(int argc, char **argv)
 Compilation:
 
 gcc main.c get_next_line.c get_next_line_utils.c
+
 BUFFER_SIZE can be specified at compilation to override the default BUFFER_SIZE:
 
 gcc -D BUFFER_SIZE=42 main.c get_next_line.c get_next_line_utils.c
@@ -48,7 +49,6 @@ Execution:
 ./a.out [file]
 
 Output should show the entire contents of the given file.
-
 Execution with stdin:
 
 ./a.out /dev/tty
