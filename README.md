@@ -3,7 +3,7 @@ get_next_line
 
 <p align="center">
   <a href="https://github.com/Albertoocbs/get_next_line/blob/master/get_next_line_circular.png">
-    <img src="https://github.com/Albertoocbs/get_next_line" width="80"/>
+    <img src="https://github.com/Albertoocbs/get_next_line"/>
   </a>
 </p>
 
