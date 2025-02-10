@@ -6,14 +6,14 @@
 /*   By: aoutumur <aoutumur@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/13 13:36:47 by aoutumur          #+#    #+#             */
-/*   Updated: 2025/01/14 10:11:20 by aoutumur         ###   ########.fr       */
+/*   Updated: 2025/01/16 10:36:04 by aoutumur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
 # ifndef BUFFER_SIZE
-#  define BUFFER_SIZE 42
+#  define BUFFER_SIZE (42)
 # endif
 
 # include <stdlib.h>
