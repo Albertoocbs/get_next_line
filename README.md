@@ -1,5 +1,4 @@
-get_next_line
--------
+# get_next_line
 
 <p align="center">
   <a href="https://github.com/Albertoocbs/get_next_line">
