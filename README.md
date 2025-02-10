@@ -7,7 +7,7 @@ Status
 -------
 Finished: 2025-01-19. Grade: 105/100.
 
--------
+
 Usage
 -------
 This function is not a stand-alone program, its files must be included and compiled within another project.
@@ -48,9 +48,5 @@ Execution:
 
 ./a.out [file]
 
-Output should show the entire contents of the given file.
-Execution with stdin:
-
-./a.out /dev/tty
-
-Program will wait for input, then once the enter key is pressed, print out the input as well as get_next_line's output. The process can be killed with ctrl-c
+------
+Here is a useful guide to understand this project: https://42-cursus.gitbook.io/guide/rank-01/get_next_line
